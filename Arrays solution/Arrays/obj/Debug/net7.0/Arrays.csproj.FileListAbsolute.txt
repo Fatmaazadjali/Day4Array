@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\bin\Debug\net7.0\Arrays.exe
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\bin\Debug\net7.0\Arrays.deps.json
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\bin\Debug\net7.0\Arrays.dll
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\bin\Debug\net7.0\Arrays.pdb
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\obj\Debug\net7.0\Arrays.dll
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\obj\Debug\net7.0\Arrays.pdb
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+C:\Users\Training\Desktop\Fatma Alzadjali\Day3\Arrays solution\Arrays\obj\Debug\net7.0\ref\Arrays.dll
